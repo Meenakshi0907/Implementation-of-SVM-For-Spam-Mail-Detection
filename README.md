@@ -32,6 +32,8 @@ result
 
 data.head()
 
+data.info()
+
 data.isnull().sum()
 
 x=data["v1"].values 
